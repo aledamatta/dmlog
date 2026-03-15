@@ -1,0 +1,17 @@
+HELP.md
+**/.mvn/wrapper/maven-wrapper.jar
+!**/**/src/main/**/target/
+!**/**/src/test/**/target/
+**/target/
+
+### IntelliJ IDEA ###
+**/.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+
+### VS Code ###
+.vscode/
+
+### Postgres ###
+/tools/postgres/db/data/
