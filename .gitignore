@@ -13,5 +13,8 @@ HELP.md
 ### VS Code ###
 .vscode/
 
+### ENV FILE ###
+**/.env
+
 ### Postgres ###
 /tools/postgres/db/data/
